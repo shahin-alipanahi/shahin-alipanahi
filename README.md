@@ -16,28 +16,27 @@ Welcome to my GitHub! I'm a data-driven software developer and data science enth
 
 ## 🛠️ Tech Stack
 
+
+
+
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
-## 📈 GitHub Stats
 
-![Shahin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahin-alipanahi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahin-alipanahi&layout=compact&theme=radical)
-
----
 
 ## 💼 Featured Projects
 
 - 🧬 [Deep Learning on Hypertension Data](#) – Applied multi-label classification to proteomics data
 - 📊 [Power BI Sales Dashboard](#) – Interactive and clean report design for sales performance
-- 🗄️ [MySQL Database Design](#) – Schema design for a scalable inventory management system
 
 (*Links coming soon—stay tuned!*)
 
