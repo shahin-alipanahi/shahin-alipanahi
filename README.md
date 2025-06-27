@@ -32,6 +32,7 @@ Welcome to my GitHub! I'm a data-driven software developer and data science enth
 ## Featured Projects
 
 -  [Deep Learning on Hypertension Data](#) – Applied multi-label classification to proteomics data
+-  [PythonProblems Bounty List](https://github.com/ikokkari/PythonProblems/blob/main/bounty.md) – Suggestions or solutions contributed to this set of Python challenges with the name of Shwnzp.
 -  [Power BI Sales Dashboard](#) – Interactive and clean report design for sales performance
 
 (*Links coming soon—stay tuned!*)
