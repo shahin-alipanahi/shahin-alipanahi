@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a data-driven software developer and data science enth
 ## 🚀 About Me
 
 - 🎓 B.Sc in Computer Science from Tabriz University
-- 💼 Currently exploring data analysis, BI tools, and AI-powered analytics
+- 💼 Currently exploring deep learning approaches, data analysis, BI tools
 - 🧠 Passionate about learning new technologies and applying them in practical projects
 - 📊 Strong interest in deep learning, data visualization, data analysis and software architecture
 - 🌍 Based in Iran, Germany
