@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shahin Alipanahi
+# Hi there, I'm Shahin Alipanahi
 
 Welcome to my GitHub! I'm a data-driven software developer and data science enthusiast with a passion for building insightful, efficient, and impactful solutions. Whether it's applying deep learning models to real-world challenges, or, designing robust MySQL databases, visualizing data with Power BI, I love turning problems into clean code.
 
@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm a data-driven software developer and data science enth
 
 ## Featured Projects
 
-- 🧬 [Deep Learning on Hypertension Data](#) – Applied multi-label classification to proteomics data
-- 📊 [Power BI Sales Dashboard](#) – Interactive and clean report design for sales performance
+-  [Deep Learning on Hypertension Data](#) – Applied multi-label classification to proteomics data
+-  [Power BI Sales Dashboard](#) – Interactive and clean report design for sales performance
 
 (*Links coming soon—stay tuned!*)
 
