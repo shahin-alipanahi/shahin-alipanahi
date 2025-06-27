@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shahin Alipanahi
 
-Welcome to my GitHub! I'm a data-driven software developer and data science enthusiast with a passion for building insightful, efficient, and impactful solutions. Whether it's visualizing data with Power BI, designing robust MySQL databases, or applying deep learning models to real-world challenges, I love turning complex problems into elegant code.
+Welcome to my GitHub! I'm a data-driven software developer and data science enthusiast with a passion for building insightful, efficient, and impactful solutions. Whether it's applying deep learning models to real-world challenges, or, designing robust MySQL databases, visualizing data with Power BI, I love turning problems into clean code.
 
 ---
 
